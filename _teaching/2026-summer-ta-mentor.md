@@ -17,11 +17,11 @@ After the success of the first summer Ta Mentoring, my department and I once con
 * May 22: Assignment design
 * May 29: Assignment design, continued
 * June 5: Pacing, on a course-wide and individual-class level
-* June 12: The Teaching Philosophy Statement
-* June 19 (by popular demand, despite the holiday!): 6-week-2 prep day
-* June 26: TBD
-* July 3?: TBD
-* July 10: TBD
+* June 12: No agenda, open discussion
+* June 19 (by popular demand, despite the holiday): 6-week-2 prep day
+* June 26: The Teaching Philosophy Statement
+* July 3: Hoiday; no TA Seminar
+* July 10: Applying to Academic Jobs
 * July 17: TBD
 * July 24: TBD
 * July 31: TBD
