@@ -8,7 +8,7 @@ date: 2026-05-11
 location: "Pittsburgh, PA, USA"
 ---
 
-After the success of the first summer Ta Mentoring, my department and I once convinced our Dean's office to continue funding the TA Mentor position in our department over the summer. This summer, I have been improving my workflow, using and updating the observation checklist that Akshara Vincent and I developed in the spring, and structuring the TA Seminar more deliberately.
+After the success of the first summer TA Mentoring, my department and I once convinced our Dean's office to continue funding the TA Mentor position in our department over the summer. This summer, I have been improving my workflow, using and updating the observation checklist that Akshara Vincent and I developed in the spring, and structuring the TA Seminar more deliberately.
 
 # TA Seminar Topics (meets weekly on Fridays from 1-2pm in Thackeray 624):
 
@@ -18,13 +18,12 @@ After the success of the first summer Ta Mentoring, my department and I once con
 * May 29: Assignment design, continued
 * June 5: Pacing, on a course-wide and individual-class level
 * June 12: No agenda, open discussion
-* June 19 (by popular demand, despite the holiday): 6-week-2 prep day
+* *June 19: Scheduled holiday; 6-week-2 prep day if desired*
 * June 26: The Teaching Philosophy Statement
-* July 3: Hoiday; no TA Seminar
+* *July 3: Scheduled holiday; no TA Seminar*
 * July 10: Applying to Academic Jobs
-* July 17: TBD
-* July 24: TBD
-* July 31: TBD
-* August 7: TBD
-* August 14: TBD
-* August 21: TBD
+* July 17: Lesson-Planning
+* July 24: Co-working Session for [Elizabeth Baranger Teaching Award](https://www.asgso.pitt.edu/awards-and-grants/teaching-award/) Applications
+* July 31: Improving TA training in Pitt's math department
+* August 7: Final Exam co-grading session; debrief
+* August 14: Intro to TAing in Pitt's math department (for incoming first-years)
