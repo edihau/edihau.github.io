@@ -7,6 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+<!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+{% if site.teaching_category %}
+  {% for collection in site.teaching_collection  %}
+    {% assign title_shown = false %}
+    {% for post in site.teaching reversed %}
+      {% if post.collection != collection[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ collection[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.teaching reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

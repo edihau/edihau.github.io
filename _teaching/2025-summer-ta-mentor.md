@@ -1,6 +1,6 @@
 ---
 title: "TA Mentor"
-collection: teaching
+collection: mentorship
 type: "Mentorship"
 permalink: /teaching/2025-summer-ta-mentor
 venue: "University of Pittsburgh, Department of Mathematics"
@@ -12,4 +12,4 @@ My department and I successfully petitioned our Dean's office to create a funded
 
 # TA Seminar Topics (meets weekly on Tuesdays from 3-4pm in Thackeray 703):
 
-* Need to update from my email!
+<!-- * Need to update from my email! -->
