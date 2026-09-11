@@ -1,6 +1,7 @@
 ---
 title: "Analytic Geometry & Calculus 2"
 collection: teaching
+category: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-summer-12w-calc-2
 venue: "University of Pittsburgh, Department of Mathematics"

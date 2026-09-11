@@ -1,6 +1,7 @@
 ---
 title: "Analytic Geometry & Calculus 1"
 collection: teaching
+category: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-calc-1
 venue: "University of Pittsburgh, Department of Mathematics"

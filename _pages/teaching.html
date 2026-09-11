@@ -16,21 +16,21 @@ author_profile: true
 {% endfor %} -->
 
 {% if site.teaching_category %}
-  {% for collection in site.teaching_collection  %}
+  {% for category in site.teaching_category  %}
     {% assign title_shown = false %}
     {% for post in site.teaching reversed %}
-      {% if post.collection != collection[0] %}
+      {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ collection[1].title }}</h2><hr />
+        <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
-{% else %}
+  {% else %}
   {% for post in site.teaching reversed %}
     {% include archive-single.html %}
-  {% endfor %}
+  {% endfor %} 
 {% endif %}

@@ -1,6 +1,7 @@
 ---
 title: "MAC Assistant"
-collection: mentorship
+collection: teaching
+category: mentorship
 type: "Mentorship"
 permalink: /teaching/2026-spring-mac-assistant
 venue: "University of Pittsburgh, Department of Mathematics"

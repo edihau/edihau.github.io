@@ -1,6 +1,7 @@
 ---
 title: "TA Mentor"
-collection: mentorship
+collection: teaching
+category: mentorship
 type: "Mentorship"
 permalink: /teaching/2025-summer-ta-mentor
 venue: "University of Pittsburgh, Department of Mathematics"

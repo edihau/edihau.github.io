@@ -1,6 +1,7 @@
 ---
 title: "Business Calculus"
 collection: teaching
+category: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-business-calc
 venue: "University of Pittsburgh, Department of Mathematics"
