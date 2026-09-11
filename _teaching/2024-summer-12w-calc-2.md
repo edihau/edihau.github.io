@@ -1,5 +1,5 @@
 ---
-title: "Analytic Geometry & Calculus 2"
+title: "Summer 2024: Analytic Geometry & Calculus 2"
 collection: teaching
 category: teaching
 type: "Undergraduate course"
@@ -9,8 +9,8 @@ date: 2024-05-25
 location: "Pittsburgh, PA, USA"
 ---
 
-This summer's course was supported by a Course Transformation Award from dB-SERC to implement an altenrative grading scheme. The Dietrich School of Arts & Sciences' Dean's office separately allocated funds for a grad TA to serve as a grader for the course. Like the previous summer, many students decided to complete projects, some of which were primarily the students' design.
+This summer's course was supported by a Course Transformation Award from dB-SERC to implement an altenrative grading model. The Dietrich School of Arts & Sciences' Dean's office separately allocated funds for a grad TA to serve as a grader for the course. Like the previous summer, many students decided to complete projects, some of which were primarily the students' design.
 
-# MATH 0230-1015: Monday, Wednesday & Friday, 6-7pm (11 students)
+## MATH 0230-1015: Monday, Wednesday & Friday, 6-7pm (11 students)
 
 Syllabus

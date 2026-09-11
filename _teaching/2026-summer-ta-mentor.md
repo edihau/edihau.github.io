@@ -1,5 +1,5 @@
 ---
-title: "TA Mentor"
+title: "Summer 2026: TA Mentor"
 collection: teaching
 category: mentorship
 type: "Mentorship"
@@ -9,9 +9,9 @@ date: 2026-05-11
 location: "Pittsburgh, PA, USA"
 ---
 
-After the success of the first summer TA Mentoring, my department and I once convinced our Dean's office to continue funding the TA Mentor position in our department over the summer. This summer, I have been improving my workflow, using and updating the observation checklist that Akshara Vincent and I developed in the spring, and structuring the TA Seminar more deliberately.
+After the success of the first summer TA Mentoring, our School of Arts & Sciences approved funding the TA Mentor position in our department for a second summer. This summer, I improved my workflow, using and updating the observation checklist that was developed in the spring, and structuring the TA Seminar more deliberately.
 
-# TA Seminar Topics (meets weekly on Fridays from 1-2pm in Thackeray 624):
+## TA Seminar Topics (meets weekly on Fridays from 1-2pm in Thackeray 624):
 
 * May 11 (Monday): Course Design and setup questions for 6-week-1 folks
 * May 15: More course design and setup questions, including educational technology

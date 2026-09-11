@@ -1,5 +1,5 @@
 ---
-title: "Business Calculus"
+title: "Spring 2026: Business Calculus"
 collection: teaching
 category: teaching
 type: "Undergraduate course"
@@ -9,8 +9,8 @@ date: 2026-01-12
 location: "Pittsburgh, PA, USA"
 ---
 
-This semester was my second attempt to implement standards-based grading in a large-enrollment class.
+<!-- This semester was my second attempt to implement standards-based grading in a large-enrollment class. -->
 
-# MATH 0120-1180: Monday, Wednesday, & Friday, 5-5:50pm (50 students)
+## MATH 0120-1180: Monday, Wednesday, & Friday, 5-5:50pm (50 students)
 
-Syllabus
+[Syllabus](https://edihau.github.io/files/S26_Business_Calculus_Syllabus.pdf)
