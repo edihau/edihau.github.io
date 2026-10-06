@@ -1,5 +1,5 @@
 ---
-title: "Student (Mis)-Use of Gen\"AI\" for Practice"
+title: "Standards-Based Grading in Large-Enrollment Calculus: Practices and Lessons for Students/Faculty"
 collection: talks
 type: "Talk"
 permalink: /talks/2026-03-28-standards-based-grading
