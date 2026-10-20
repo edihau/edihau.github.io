@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p>Last updated on September 27, 2026.</p>
+<p>Last updated on October 20, 2026.</p>
 <p><a href="/files/Edison_Hauptman_CV_10202026.pdf">View in browser</a></p>
 <object
       data="/files/Edison_Hauptman_CV_10202026.pdf"
