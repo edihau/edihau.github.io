@@ -12,16 +12,16 @@ redirect_from:
 <p>Last updated on October 20, 2026.</p>
 <p><a href="/files/Edison_Hauptman_CV_10202026.pdf">View in browser</a></p>
 <object
-      data="/files/Edison_Hauptman_CV_10202026.pdf"
-      type="application/pdf"
-      width="600"
-      height="400"
-      title="Edison Hauptman CV">
-      <p>
-        Your browser can't display this PDF.
-        <a href="/files/Edison_Hauptman_CV_10202026.pdf">Download it instead</a>.
-      </p>
-    </object>
+  data="/files/Edison_Hauptman_CV_10202026.pdf"
+  type="application/pdf"
+  width="600"
+  height="400"
+  title="Edison Hauptman CV">
+  <p>
+    Your browser can't display this PDF.
+    <a href="/files/Edison_Hauptman_CV_10202026.pdf">Download it instead</a>.
+  </p>
+</object>
 
 <!-- Education
 ======
